@@ -1,0 +1,54 @@
+#img1{
+    position:relative;
+    width: 313px;
+    height: 221px;
+    left: 5%;
+    top: 175px;
+    background:#EED6C4;
+    border-radius: 9px; 
+}
+#title{
+    position:relative;
+    left: 4%;
+    top: 200px;
+    font-family: 'Poppins';
+    font-size: 40px; 
+    line-height: 27px;
+    color: #0D0D0D;
+    text-align: left;
+}
+#addr{   
+    position:relative;
+    top: 200px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    color: #0D0D0D;
+    margin: 4%;  
+    text-align: left;
+}
+#des{   
+    position:relative;
+    top: 200px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0D0D0D;
+    margin: 4%; 
+    text-align: left;
+}
+#sgu{   
+    position:relative;
+    top: 200px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #0D0D0D;
+    margin: 4%; 
+    text-align: left;
+}

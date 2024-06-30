@@ -1,0 +1,41 @@
+#search{
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 14px 12px 20px;
+gap: 8px;
+isolation: isolate;
+position: fixed;
+width: 75%;
+/* width: 284px; */
+height: 45px;
+left: 26px;
+top: 52px;
+background: #FFFFFF;
+box-shadow: 0px 4px 25px rgba(192, 192, 192, 0.3);
+border-radius: 20px;
+z-index: 4;
+
+}
+#icon{
+left: 275px;
+top: 75px;
+position: fixed;
+z-index:10;
+}
+
+.propil{
+position: fixed;
+width: 36px;
+height: 36px;
+left: 318px;
+top: 56px;
+z-index:10;
+}
+#data{
+margin-top: 150px;
+}
+.b{
+
+    z-index: 100;
+}

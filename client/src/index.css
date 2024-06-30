@@ -1,0 +1,31 @@
+html {
+    font-size: 14px;
+}
+
+body {
+    font-family: var(--font-family);
+    font-weight: normal;
+    background: var(--surface-ground);
+    color: var(--text-color);
+    padding: 1rem;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-active {
+    color: #000000 !important;
+}
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root.Mui-completed {
+    color: #EED6C4 !important;
+}
+.p-inputtext:enabled:hover {
+    border-color:#000000 !important;
+}
+.p-inputtext:enabled:focus {
+    outline-offset: 0;
+    box-shadow: 0 0 0 0.2rem #ffffff !important;
+}
+.css-1u4zpwo-MuiSvgIcon-root-MuiStepIcon-root {
+    font-size: 2rem !important;
+}
+
+
